@@ -1,12 +1,14 @@
-# [Your Project Title Here]
+# Predict individual driving habits
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/maciejlipski/opencampus_travel_time
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Predicting travel time based cyclists GPX files
+
+## Literature Review
 
 ### Task Type
 
