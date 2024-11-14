@@ -8,8 +8,6 @@ https://github.com/maciejlipski/opencampus_travel_time
 
 Predicting travel time based cyclists GPX files
 
-## Literature Review
-
 ### Task Type
 
 [Image Classification / Chatbot / Regression / Clustering / Other]
