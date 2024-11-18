@@ -12,9 +12,9 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: The Development of a Predictive Hiking Travel Time Model Accounting for Terrain Variations
 
-  - **[Link]()**
+  - **https://gispoint.de/fileadmin/user_upload/paper_gis_open/537521059.pdf**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
