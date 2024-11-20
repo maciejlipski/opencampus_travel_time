@@ -7,10 +7,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: Bicycle Data-Driven Application Framework: A Dutch Case Study on Machine Learning-Based Bicycle Delay Estimation at Signalized Intersections Using Nationwide Sparse GPS Data
 
   - **https://www.mdpi.com/1424-8220/23/24/9664#**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: Develop a generic data-driven framework for estimating average bicycle delays at signalized intersections using sparse GPS cycling data. This helps assess transportation system performance. The study evaluates machine learning models such as random forest, k-nearest neighbor, and neural networks, combining GPS data with public information like weather and intersection complexity. It aims to enhance traffic management, bicycle policy, and infrastructure planning by providing insights into cyclist behavior and delays.
+  - **Methods**: Key methods include processing sparse GPS data collected at signalized intersections, utilizing feature engineering to extract traffic-related insights, and training predictive models to estimate delays. The framework integrates advanced statistical analysis and real-world transportation data from the Dutch traffic system to enhance its reliability
+  - **Outcomes**: The study demonstrates that machine learning models, particularly random forests, can effectively estimate bicycle delays at signalized intersections using sparse GPS data and publicly available information. It highlights how factors like weather and time of day impact delays, offering insights for infrastructure improvements and traffic management. Recommendations include refining delay definitions, expanding intersection coverage, incorporating local signal and traffic data, and enhancing sensor accuracy. These improvements can optimize traffic management and policy-making, contributing to better cycling experiences and infrastructure planning
+  - **Relation to the Project**: The paper emphasizes deriving travel insights through predictive modeling of travel behavior. While it uses GPS data to estimate bicycle delays, we can adapt machine learning models like random forests to achieve accurate travel time predictions in our project. Additionally, incorporating bicycle delay factors into our travel time estimation model could enhance accuracy, aligning with the paper's methodology to improve traffic and infrastructure planning.
 
 - **Source 2**: The Development of a Predictive Hiking Travel Time Model Accounting for Terrain Variations
 
