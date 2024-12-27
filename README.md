@@ -14,12 +14,12 @@ Predicting cyclists speed based on the GPX files we retrieved from a free source
 - Cumulative Slope
 
 ### Task Type
-# Preprocessing of Data
+#### Preprocessing of Data
 - Converting GPX files into xlsx using _openpyxl_ python library and retrieved Latitude, Longitude, Elevation and Time stamp.
 - Based on retrieved information calculated distance and time difference using _geopy_ python library.
 - Further processing was done to calculate slope and angle using goepy and math python libraries
 
-# Splitting the data set
+#### Splitting the data set
 - Train 90%
 - Test 10% 
 
