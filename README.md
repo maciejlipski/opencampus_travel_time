@@ -19,6 +19,10 @@ Predicting cyclists speed based on the GPX files we retrieved from a free source
 - Based on retrieved information calculated distance and time difference using _geopy_ python library.
 - Further processing was done to calculate slope and angle using goepy and math python libraries
 
+# Splitting the data set
+- Train 90%
+- Test 10% 
+
 ### Results Summary
 
 - **Best Model:** Neural Network model & Linear Regression Model
@@ -36,5 +40,5 @@ Predicting cyclists speed based on the GPX files we retrieved from a free source
 
 ## Cover Image
 
-![Project Cover Image]![Cover Image](https://github.com/user-attachments/assets/ca1a97fa-cd63-488a-be18-cfa177599e69)
+[Cover Image](https://github.com/user-attachments/assets/ca1a97fa-cd63-488a-be18-cfa177599e69)
 
