@@ -36,4 +36,5 @@ Predicting cyclists speed based on the GPX files we retrieved from a free source
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image]![Cover Image](https://github.com/user-attachments/assets/ca1a97fa-cd63-488a-be18-cfa177599e69)
+
