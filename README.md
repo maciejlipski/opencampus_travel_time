@@ -6,11 +6,18 @@ https://github.com/maciejlipski/opencampus_travel_time
 
 ## Description
 
-Predicting cyclists speed based cyclists GPX files
+Predicting cyclists speed based on the GPX files we retrieved from a free source. For the estimation of speed we considered following features.
+- Elevation
+- Slope
+- Angle
+- Distance
+- Cumulative Slope
 
 ### Task Type
-
-Training and testing the cyclists data with Neural Network
+# Preprocessing of Data
+- Converting GPX files into xlsx using _openpyxl_ python library and retrieved Latitude, Longitude, Elevation and Time stamp.
+- Based on retrieved information calculated distance and time difference using _geopy_ python library.
+- Further processing was done to calculate slope and angle using goepy and math python libraries
 
 ### Results Summary
 
