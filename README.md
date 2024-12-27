@@ -6,16 +6,17 @@ https://github.com/maciejlipski/opencampus_travel_time
 
 ## Description
 
-Predicting travel time based cyclists GPX files
+Predicting cyclists speed based cyclists GPX files
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Training and testing the cyclists data with Neural Network
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
+- **Best Model:** Neural Network model & Linear Regression Model
+- **Evaluation Metric:** ![image](https://github.com/user-attachments/assets/2b658eda-40a5-4ff6-8bc6-9f4697036e41)
+
 - **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
 ## Documentation
