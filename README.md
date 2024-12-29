@@ -16,12 +16,21 @@ Predicting cyclists speed based on the GPX files we retrieved from a free source
 ### Task Type
 #### Preprocessing of Data
 - Converting GPX files into xlsx using _openpyxl_ python library and retrieved Latitude, Longitude, Elevation and Time stamp.
+- Delete files recorded outside of Europe
 - Based on retrieved information calculated distance and time difference using _geopy_ python library.
 - Further processing was done to calculate slope and angle using goepy and math python libraries
 
 #### Splitting the data set
 - Train 90%
-- Test 10% 
+- Test 10%
+
+#### Baseline Model
+- Linear Regression
+- Simple Neural Network
+
+#### Final Model/Evaluation
+- Linear Regression
+- Simple Neural Network
 
 ### Results Summary
 
