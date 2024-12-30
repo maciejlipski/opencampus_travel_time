@@ -28,8 +28,8 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 
 #### Model Configuration
 - Sequential model
-- Input Layer is with 128 Neurons and with ReLU activation
-- Hidden layers: one with 256 neurons and the other with 128 neurons, both using ReLU activation. Dropout is applied to both layers.
+- Input Layer
+- Hidden layers
 - Output Layer
 - Model Compliation
 - Callbacks
