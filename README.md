@@ -26,20 +26,28 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 - Train 90%
 - Test 10%
 
-#### Baseline Model
-- Linear Regression
-- Simple Neural Network
+#### Model Configuration
+- Sequential model
+- Input Layer is with 128 Neurons and with ReLU activation
+- Hidden layers: one with 256 neurons and the other with 128 neurons, both using ReLU activation. Dropout is applied to both layers.
+- Output Layer
+- Model Compliation
+- Callbacks
 
-#### Final Model/Evaluation
-- Linear Regression
-- Simple Neural Network
+#### Model Evaluation
+- Trainig the model
+- Testing the model
 
 ### Results Summary
 
-- **Best Model:** Neural Network model & Linear Regression Model
-- **Evaluation Metric:** ![image](https://github.com/user-attachments/assets/2b658eda-40a5-4ff6-8bc6-9f4697036e41)
+- **Best Model:** Simple Neural Network
+- **Evaluation Metric:**
+- Training = ETA: 16s - loss: 4.9479 - mae: 1.5318
+- Testing = Linear Regression (Mean Absolute Error: 1.9240215480755247) / Neural Network (Mean Absolute Error: 1.86628655022557)
 
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Result:**
+- Absolute percentage difference in Linear Rregression model: 24.186693000542977
+- Absolute percentage difference in Neural Network model: 17.36073262240657
 
 ## Documentation
 
