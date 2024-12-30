@@ -46,7 +46,7 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 - Testing = Linear Regression (Mean Absolute Error: 1.9240215480755247) / Neural Network (Mean Absolute Error: 1.86628655022557)
 
 - **Result:**
-- Absolute percentage difference in Linear Rregression model: 24.186693000542977
+- Absolute percentage difference in Linear Regression model: 24.186693000542977
 - Absolute percentage difference in Neural Network model: 17.36073262240657
 
 ## Documentation
