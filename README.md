@@ -6,7 +6,9 @@ https://github.com/maciejlipski/opencampus_travel_time
 
 ## Description
 
-Predicting cyclists speed based on the GPX files we retrieved from a free source. For the estimation of speed we considered following features.
+This project primarily focuses on predicting cyclists' speed based on GPX files retrieved from Slovenian pro-cyclists. Initially, the idea was to calculate the estimated time based on the GPX files. However, as we built our base model and conducted further evaluations, we found that the data was insufficient to predict the estimated time. Hence, we decided to focus on predicting speed instead.
+
+ For the estimation of speed we considered following features.
 - Elevation
 - Slope
 - Angle
