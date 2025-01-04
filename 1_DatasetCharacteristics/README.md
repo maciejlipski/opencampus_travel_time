@@ -12,4 +12,4 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 **Source: Data was voluntarily contributed by cyclists, who remain anonymous for ethical reasons.**
 
 ## Data Conversion and Data overview
-1_DatasetCharacteristics/exploratory_data_analysis.ipynb
+[Note](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)
