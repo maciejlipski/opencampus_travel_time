@@ -15,7 +15,8 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 [Colab Notebook](1_DatasetCharacteristics/preprocessing.ipynb)
 
 - Mounting to Drive
-![image](https://github.com/user-attachments/assets/2865aeef-ac34-40d0-ba02-1c9a6b2974a0)
+![image](https://github.com/user-attachments/assets/2c2ebca4-12f9-42e6-8c69-8d3e11ea8393)
+
 
 - Converting 9 GPX files to xlsx files
   ![image](https://github.com/user-attachments/assets/01d0acf3-3b31-49df-b3ca-154c4eb0babb)
