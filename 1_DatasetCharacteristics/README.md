@@ -11,9 +11,13 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 
 **Source: Data was voluntarily contributed by cyclists, who remain anonymous for ethical reasons.**
 
-### Data Conversion and Data overview [Colab Notebook](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)
+### Data Conversion and Data overview 
+[Colab Notebook](1_DatasetCharacteristics/preprocessing.ipynb)
+
 - Mounting to Drive
-- Converting GPX files to xlsx
+![image](https://github.com/user-attachments/assets/2865aeef-ac34-40d0-ba02-1c9a6b2974a0)
+
+- Converting 9 GPX files to xlsx files
   ![image](https://github.com/user-attachments/assets/01d0acf3-3b31-49df-b3ca-154c4eb0babb)
 
 - Preview of Data
