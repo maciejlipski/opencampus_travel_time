@@ -10,7 +10,6 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 - Average and maximal heart rate
 
 **Source: Data was voluntarily contributed by cyclists, who remain anonymous for ethical reasons.**
-
 <br></br>
 ## Data Conversion and Data overview 
 
