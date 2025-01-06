@@ -27,7 +27,7 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
   <img src="Convert GPX to xlsx.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Converting GPX to Excel</strong></p>
 </div>
-<br></br>
+
 #### Preprocessing data
 - Deleted files recorded outside europe
 - Repair currupted file
