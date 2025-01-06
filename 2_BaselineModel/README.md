@@ -19,7 +19,6 @@ The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) 
 - Prediction: It predicts the speed for the test set and new unseen data after applying the same scaling to the input features.
 - Evaluation: The model's performance is evaluated using test loss and MAE. The training history (loss over epochs) is optionally plotted.
 
-![image](https://github.com/user-attachments/assets/21d8b297-28d9-49fe-bd84-b6d4ecdcb5b3)
 
 <div align="center">
   <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
