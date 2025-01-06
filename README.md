@@ -53,7 +53,7 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
 2. **[Dataset Characteristics](1_DatasetCharacteristics/README.md)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
+3. **[Baseline Model](2_BaselineModel/README.md)**
 4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
 5. **[Presentation](4_Presentation/README.md)**
 
