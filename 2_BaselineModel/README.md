@@ -1,6 +1,7 @@
 # Baseline Model
 
 The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) based on terrain characteristics and cumulative statistics of the current track. It utilizes two different machine learning algorithms
+<br></br>
 
 ## Linear Regression
 
@@ -9,6 +10,7 @@ The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) 
 - Training: The model is trained on a portion of the dataset (X_train, y_train).
 - Prediction: It predicts the speed (y_pred) for the test set (X_test) and new unseen data.
 - Evaluation: The model's performance is evaluated using Mean Absolute Error (MAE).
+<br></br>
 
 ## Simple Neural Network
 
