@@ -41,6 +41,6 @@ In summary, the baseline model provides two approaches (linear regression and ne
   <img src="MAE chart.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance</strong></p>
 </div>
-*Performance MAE*
+
 
 ### *Detail Information on [Colab_Notebook_Baseline_Model](baseline_model_r1.ipynb)*
