@@ -28,8 +28,8 @@ In summary, the baseline model provides two approaches (linear regression and ne
 
 ![image](https://github.com/user-attachments/assets/824012f5-c9d7-46fb-8954-595ee4a0946b)
 
-*Performance Difference MAE*
+![image](https://github.com/user-attachments/assets/58bc06a5-079f-454b-9a4a-9840418ef0d2)
 
-
+*Performance MAE*
 
 **[Notebook](baseline_model.ipynb)**
