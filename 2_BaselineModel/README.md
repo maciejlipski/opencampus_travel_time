@@ -27,6 +27,7 @@ The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) 
   <p><strong>Feature Engineering</strong></p>
 </div>
 <br></br>
+
 ## Evaluation and Comparison
 
 Both models are evaluated on a separate test dataset and new unseen data. The evaluation metrics (MAE and percentage difference in predicted time) are used to compare their performance. The summary statistics provide insights into the accuracy and reliability of each model's predictions.
