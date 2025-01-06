@@ -13,8 +13,8 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 
 
 
-## Data Conversion and Data overview 
-[Colab Notebook](1_DatasetCharacteristics/preprocessing.ipynb)
+## Data Conversion and Data overview [(Colab Notebook)](1_DatasetCharacteristics/preprocessing.ipynb)
+
 
 #### Mounting to Drive
 ![image](https://github.com/user-attachments/assets/2c2ebca4-12f9-42e6-8c69-8d3e11ea8393)
