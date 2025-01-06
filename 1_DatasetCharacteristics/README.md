@@ -32,5 +32,5 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 - Repair currupted file
 - Convert Timestamp to Seconds
 
-### *Detail Information on [Colab_Notebook_Data](1_DatasetCharacteristics/preprocessing.ipynb)*
+### *Detail Information on [Colab_Notebook_Data](preprocessing.ipynb)*
 
