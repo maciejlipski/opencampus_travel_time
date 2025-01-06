@@ -28,18 +28,10 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
   <p><strong>Converting GPX to Excel</strong></p>
 </div>
 <br></br>
-
-#### Converting 9 GPX files to xlsx files
-  ![image](https://github.com/user-attachments/assets/01d0acf3-3b31-49df-b3ca-154c4eb0babb)
-
-#### Preview of Data
-![image](https://github.com/user-attachments/assets/3f8fc2d0-fc26-468f-bc63-38271f61501a)
-
-
 #### Preprocessing data
 - Deleted files recorded outside europe
 - Repair currupted file
 - Convert Timestamp to Seconds
-
+<br></br>
 ### *Detail Information on [Colab_Notebook_Data](preprocessing.ipynb)*
 
