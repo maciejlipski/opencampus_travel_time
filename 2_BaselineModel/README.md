@@ -22,11 +22,9 @@ The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) 
 ![image](https://github.com/user-attachments/assets/21d8b297-28d9-49fe-bd84-b6d4ecdcb5b3)
 
 <div align="center">
-  <img src="images/figure1.png" alt="Figure 1: Description of the image" width="400">
+  <img src="Feature.png" alt="Figure 1: Description of the image" width="400">
   <p><em>Figure 1: Description of the image</em></p>
 </div>
-
-*Feature Engineering*
 
 
 #### Evaluation and Comparison
