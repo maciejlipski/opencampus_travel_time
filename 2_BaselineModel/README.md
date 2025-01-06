@@ -38,7 +38,7 @@ In summary, the baseline model provides two approaches (linear regression and ne
   <img src="MAE difference.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance Difference</strong></p>
 </div>
-
+<br></br>
 <div align="center">
   <img src="MAE chart.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance</strong></p>
