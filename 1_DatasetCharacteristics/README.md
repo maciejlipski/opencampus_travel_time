@@ -1,4 +1,4 @@
-# Dataset Characteristics   [Colab Notebook](1_DatasetCharacteristics/preprocessing.ipynb)
+# Dataset Characteristics   
 
 The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr., and Iztok Fister, comprises sport activity data collected from nine cyclists. The data was sourced from their Strava or Garmin Connect accounts and is structured in XML-based formats such as GPX or TCX. These formats include various attributes suitable for analysis, enabling diverse research in the domain of sports science, data mining, and performance analytics.
 
@@ -31,4 +31,6 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 - Deleted files recorded outside europe
 - Repair currupted file
 - Convert Timestamp to Seconds
+
+*Refer more info for [Colab Notebook](1_DatasetCharacteristics/preprocessing.ipynb)*
 
