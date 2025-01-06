@@ -33,7 +33,7 @@ Both models are evaluated on a separate test dataset and new unseen data. The ev
 In summary, the baseline model provides two approaches (linear regression and neural network) for predicting rider speed based on terrain features. The code implements the training, prediction, and evaluation processes for both models, allowing for a comparison of their performance
 
 <div align="center">
-  <img src="MAE difference.png" alt="Figure 1: Description of the image" width="1000">
+  <img src="MAE difference.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance Difference</strong></p>
 </div>
 
