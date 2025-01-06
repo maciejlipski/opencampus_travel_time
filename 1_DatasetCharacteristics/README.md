@@ -15,7 +15,7 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 ## Data Conversion and Data overview 
 
 <div align="center">
-  <img src="monting to drive.png" alt="Figure 1: Description of the image" width="900">
+  <img src="mounting to drive.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Mounting to Drive</strong></p>
 </div>
 <br></br>
