@@ -11,13 +11,13 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 
 **Source: Data was voluntarily contributed by cyclists, who remain anonymous for ethical reasons.**
 
-
-
+<br></br>
 ## Data Conversion and Data overview 
 
-
-#### Mounting to Drive
-![image](https://github.com/user-attachments/assets/2c2ebca4-12f9-42e6-8c69-8d3e11ea8393)
+<div align="center">
+  <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Mounting to Drive</strong></p>
+</div>
 
 
 #### Converting 9 GPX files to xlsx files
