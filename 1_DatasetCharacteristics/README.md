@@ -15,10 +15,22 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 ## Data Conversion and Data overview 
 
 <div align="center">
-  <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
+  <img src="monting to drive.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Mounting to Drive</strong></p>
 </div>
+<br></br>
 
+<div align="center">
+  <img src="Preview of Data.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Preview of Data</strong></p>
+</div>
+<br></br>
+
+<div align="center">
+  <img src="Convert GPX to xlsx.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Converting GPX to Excel</strong></p>
+</div>
+<br></br>
 
 #### Converting 9 GPX files to xlsx files
   ![image](https://github.com/user-attachments/assets/01d0acf3-3b31-49df-b3ca-154c4eb0babb)
