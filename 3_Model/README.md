@@ -12,8 +12,8 @@ The selection of relevant features is crucial for accurate predictions. The code
 **- Elevation:** Represents the altitude of the terrain. Changes in elevation significantly influence cycling speed.
 **- Slope_prev & Slope_next:** These capture the gradients of the terrain before and after the current point, providing context for the cyclist's effort.
 **- Angle:** Measures the inclination of the terrain, further complementing the slope information.
-**- Distance:** Represents the distance covered, which is directly related to the time taken.**
-- Cumulative_Slope:** This feature considers the accumulated slope over the route, reflecting the overall difficulty.
+**- Distance:** Represents the distance covered, which is directly related to the time taken.
+**- Cumulative_Slope:** This feature considers the accumulated slope over the route, reflecting the overall difficulty.
  
 These features are chosen based on their physical relevance to cycling dynamics and their potential impact on speed and time.
 
