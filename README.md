@@ -42,13 +42,27 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 
 - **Best Model:** Simple Neural Network
 - **Evaluation Metric:**
- <div align="center">
-  <img src="3_Model/NN Evaluation.png" alt="Figure 1: Description of the image" width="900">
-  <p><strong>NN Model Training</strong></p>
-</div>
-- Training = ETA: 16s - loss: 4.9479 - mae: 1.5318
-- Testing = Linear Regression (Mean Absolute Error: 1.9240215480755247) / Neural Network (Mean Absolute Error: 1.3004845544151193)
-
+- Training = Loss: 3.0195 - mae: 1.2467 Test Loss: 3.0246357917785645, Test MAE: 1.2471673488616943
+- Testing = 36/36 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step
+File: f437.csv | Mean Absolute Error: 1.4185177288381339
+123/123 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step
+File: f537.csv | Mean Absolute Error: 1.3679558181952007
+71/71 ━━━━━━━━━━━━━━━━━━━━ 0s 4ms/step
+File: f566.csv | Mean Absolute Error: 1.5116033694708106
+211/211 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+File: f144.csv | Mean Absolute Error: 1.3004845544151193
+113/113 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step
+File: f24.csv | Mean Absolute Error: 1.280538647109091
+173/173 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+File: f114.csv | Mean Absolute Error: 1.3838351290294801
+35/35 ━━━━━━━━━━━━━━━━━━━━ 0s 4ms/step
+File: f559.csv | Mean Absolute Error: 1.241506570306826
+131/131 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step
+File: f234.csv | Mean Absolute Error: 1.3852115782484578
+77/77 ━━━━━━━━━━━━━━━━━━━━ 0s 4ms/step
+File: f47.csv | Mean Absolute Error: 1.7581804723629753
+158/158 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step
+File: f647.csv | Mean Absolute Error: 1.4378520738654519
 - **Result:**
 - Absolute percentage difference in Linear Regression model: 15.358912331780052
 - Absolute percentage difference in Neural Network model: 11.856650636508206
