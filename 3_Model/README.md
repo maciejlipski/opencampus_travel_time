@@ -40,4 +40,4 @@ This project follows a standard workflow for machine learning projects:
 
 
 
-### _Detailed Information on_ 3_Model/final_model.ipynb
+### *Detailed Information on [Colab Notebook_Final_Model](3_Model/final_model.ipynb)
