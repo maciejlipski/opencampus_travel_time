@@ -80,4 +80,4 @@ This project follows a standard workflow for machine learning projects:
 </div>
 <br></br>
 
-### *Detailed Information on [Colab Notebook_Final_Model](3_Model/final_model.ipynb)*
+### *Detailed Information on [Colab Notebook_Final_Model](final_model.ipynb)*
