@@ -36,6 +36,12 @@ Optimizing a neural network involves tuning its hyperparameters to achieve the b
 - Model Checkpoint: This callback saves the model's weights whenever it achieves the best performance on the validation set. This ensures that you have access to the model's optimal state.
 - ReduceLROnPlateu: The learning rate is a critical hyperparameter that controls how the model adjusts its weights during training. This callback automatically reduces the learning rate when the validation loss plateaus, allowing the model to fine-tune its parameters and converge to a better solution.
 
+<div align="center">
+  <img src="Hyper Patameter.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Hyper Parameters</strong></p>
+</div>
+<br></br>
+
 ## Implementation:
 This project follows a standard workflow for machine learning projects:
 
