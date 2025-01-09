@@ -42,12 +42,16 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 
 - **Best Model:** Simple Neural Network
 - **Evaluation Metric:**
+ <div align="center">
+  <img src="Implementation.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>NN Model Training</strong></p>
+</div>
 - Training = ETA: 16s - loss: 4.9479 - mae: 1.5318
-- Testing = Linear Regression (Mean Absolute Error: 1.9240215480755247) / Neural Network (Mean Absolute Error: 1.86628655022557)
+- Testing = Linear Regression (Mean Absolute Error: 1.9240215480755247) / Neural Network (Mean Absolute Error: 1.3004845544151193)
 
 - **Result:**
-- Absolute percentage difference in Linear Regression model: 24.186693000542977
-- Absolute percentage difference in Neural Network model: 17.36073262240657
+- Absolute percentage difference in Linear Regression model: 15.358912331780052
+- Absolute percentage difference in Neural Network model: 11.856650636508206
 
 ## Documentation
 
