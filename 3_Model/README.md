@@ -62,6 +62,9 @@ This project follows a standard workflow for machine learning projects:
 
 - Comparative Analysis: The code applies both trained models to separate test datasets (Rider3_test) to simulate real-world scenarios. It calculates the predicted time for each route and compares it with the actual time. Summary statistics, including the percentage difference between predicted and actual times, are generated to provide a comprehensive evaluation. This comparative analysis helps determine which model is more suitable for predicting cycling speed and time, based on their performance on independent test data.
 
-
+<div align="center">
+  <img src="Implementation.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>NN Model Training</strong></p>
+</div>
 
 ### *Detailed Information on [Colab Notebook_Final_Model](3_Model/final_model.ipynb)*
