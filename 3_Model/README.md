@@ -10,7 +10,7 @@ After the baseline model, final model was focused on predicting cycling speed an
   <img src="Model Configuration.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Model Configuration</strong></p>
 </div>
-
+<br></br>
 ## Feature Engineering:
 The selection of relevant features is crucial for accurate predictions. The code utilizes the following:
 
