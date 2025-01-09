@@ -24,8 +24,8 @@ The selection of relevant features is crucial for accurate predictions. The code
 These features are chosen based on their physical relevance to cycling dynamics and their potential impact on speed and time.
 
 <div align="center">
-  <img src="" alt="Figure 1: Description of the image" width="900">
-  <p><strong>Model Configuration</strong></p>
+  <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Feature Engineering</strong></p>
 </div>
 <br></br>
 
