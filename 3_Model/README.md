@@ -51,6 +51,12 @@ This project follows a standard workflow for machine learning projects:
 - Model Training: Both the LR and NN models are trained using their respective libraries. The NN is trained with the specified callbacks for hyperparameter tuning.
 - Model Evaluation: The models are evaluated on the testing set using the Mean Absolute Error (MAE) metric. Lower MAE values indicate better predictive accuracy.
 
+<div align="center">
+  <img src="Implementation.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>NN Model Training</strong></p>
+</div>
+<br></br>
+
 ## Evaluation Metrics
 - Mean Absolute Error (MAE): This metric quantifies the average absolute difference between the predicted speed/time and the actual values. It's a straightforward measure of prediction error, with lower values indicating better model performance.
 
