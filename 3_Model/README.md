@@ -11,6 +11,7 @@ After the baseline model, final model was focused on predicting cycling speed an
   <p><strong>Model Configuration</strong></p>
 </div>
 <br></br>
+
 ## Feature Engineering:
 The selection of relevant features is crucial for accurate predictions. The code utilizes the following:
 
