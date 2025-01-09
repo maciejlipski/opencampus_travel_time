@@ -23,6 +23,12 @@ The selection of relevant features is crucial for accurate predictions. The code
 
 These features are chosen based on their physical relevance to cycling dynamics and their potential impact on speed and time.
 
+<div align="center">
+  <img src="Model Configuration.png" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Model Configuration</strong></p>
+</div>
+<br></br>
+
 ## Hyperparameter Tuning:
 Optimizing a neural network involves tuning its hyperparameters to achieve the best performance. The code incorporates callbacks within the training process:
 
