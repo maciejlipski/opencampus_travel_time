@@ -75,8 +75,8 @@ This project follows a standard workflow for machine learning projects:
 <br></br>
 
 <div align="center">
-  <img src="" alt="Figure 1: Description of the image" width="900">
-  <p><strong>Neutral Network Evaluation</strong></p>
+  <img src="Evaluation Summary" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Evaluation Summary</strong></p>
 </div>
 <br></br>
 
