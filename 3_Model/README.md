@@ -1,4 +1,5 @@
 # Model Definition and Evaluation
+<br></br>
 
 ## Model Selection
 After the baseline model, final model was focused on predicting cycling speed and subsequently, the time taken for a route. To achieve this, two models are employed:
