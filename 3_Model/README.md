@@ -6,6 +6,11 @@ After the baseline model, final model was focused on predicting cycling speed an
 
 - Neural Network (NN): This model leverages the power of deep learning to capture potentially non-linear relationships within the data. It's built using TensorFlow/Keras and consists of an input layer, hidden layers with activation functions (ReLU) and dropout for regularization, and an output layer. This structure allows the NN to learn complex patterns and make more nuanced predictions compared to the LR model.
 
+<div align="center">
+  <img src="" alt="Figure 1: Description of the image" width="900">
+  <p><strong>Model Configuration</strong></p>
+</div>
+
 ## Feature Engineering:
 The selection of relevant features is crucial for accurate predictions. The code utilizes the following:
 
