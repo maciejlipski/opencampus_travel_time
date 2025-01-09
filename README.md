@@ -43,7 +43,7 @@ This project primarily focuses on predicting cyclists' speed based on GPX files 
 - **Best Model:** Simple Neural Network
 - **Evaluation Metric:**
  <div align="center">
-  <img src="Implementation.png" alt="Figure 1: Description of the image" width="900">
+  <img src="3_Model/NN Evaluation.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>NN Model Training</strong></p>
 </div>
 - Training = ETA: 16s - loss: 4.9479 - mae: 1.5318
