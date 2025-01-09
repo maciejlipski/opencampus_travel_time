@@ -40,4 +40,4 @@ This project follows a standard workflow for machine learning projects:
 
 
 
-**[Notebook](model_definition_evaluation)**
+### _Detailed Information on_ 3_Model/final_model.ipynb
