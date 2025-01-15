@@ -19,12 +19,12 @@ The dataset, presented in the technical report by Samo Rauter, Iztok Fister Jr.,
 </div>
 <br></br>
 <div align="center">
-  <img src="Preview of Data.png" alt="Figure 1: Description of the image" width="900">
+  <img src="Misc/Preview of Data.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Preview of Data</strong></p>
 </div>
 <br></br>
 <div align="center">
-  <img src="Convert GPX to xlsx.png" alt="Figure 1: Description of the image" width="900">
+  <img src="Misc/Convert GPX to xlsx.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Converting GPX to Excel</strong></p>
 </div>
 
