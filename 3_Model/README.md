@@ -7,7 +7,7 @@ After the baseline model, final model was focused on predicting cycling speed an
 - Neural Network (NN): This model leverages the power of deep learning to capture potentially non-linear relationships within the data. It's built using TensorFlow/Keras and consists of an input layer, hidden layers with activation functions (ReLU) and dropout for regularization, and an output layer. This structure allows the NN to learn complex patterns and make more nuanced predictions compared to the LR model.
 
 <div align="center">
-  <img src="Model Configuration.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/Model Configuration.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Model Configuration</strong></p>
 </div>
 <br></br>
@@ -24,7 +24,7 @@ The selection of relevant features is crucial for accurate predictions. The code
 These features are chosen based on their physical relevance to cycling dynamics and their potential impact on speed and time.
 
 <div align="center">
-  <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/Feature.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Feature Engineering</strong></p>
 </div>
 <br></br>
@@ -37,7 +37,7 @@ Optimizing a neural network involves tuning its hyperparameters to achieve the b
 - ReduceLROnPlateu: The learning rate is a critical hyperparameter that controls how the model adjusts its weights during training. This callback automatically reduces the learning rate when the validation loss plateaus, allowing the model to fine-tune its parameters and converge to a better solution.
 
 <div align="center">
-  <img src="Hyper Patameter.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/Hyper Patameter.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Hyper Parameters</strong></p>
 </div>
 <br></br>
@@ -52,7 +52,7 @@ This project follows a standard workflow for machine learning projects:
 - Model Evaluation: The models are evaluated on the testing set using the Mean Absolute Error (MAE) metric. Lower MAE values indicate better predictive accuracy.
 
 <div align="center">
-  <img src="Implementation.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/Implementation.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>NN Model Training</strong></p>
 </div>
 <br></br>
@@ -63,21 +63,21 @@ This project follows a standard workflow for machine learning projects:
 - Comparative Analysis: The code applies both trained models to separate test datasets (Rider3_test) to simulate real-world scenarios. It calculates the predicted time for each route and compares it with the actual time. Summary statistics, including the percentage difference between predicted and actual times, are generated to provide a comprehensive evaluation. This comparative analysis helps determine which model is more suitable for predicting cycling speed and time, based on their performance on independent test data.
 
 <div align="center">
-  <img src="LR Evaluation.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/LR Evaluation.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Linear Regression Evaluation</strong></p>
 </div>
 <br></br>
 
 <div align="center">
-  <img src="NN Evaluation.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/NN Evaluation.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Neutral Network Evaluation</strong></p>
 </div>
 <br></br>
 
 <div align="center">
-  <img src="Evaluation Summary.png" alt="Figure 1: Description of the image" width="900">
+  <img src="misc/Evaluation Summary.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Evaluation Summary</strong></p>
 </div>
 <br></br>
 
-### *Detailed Information on [Colab Notebook_Final_Model](final_model.ipynb)*
+### *Detailed Information on [Colab Notebook_Final_Model](final_models/final_model.ipynb)*
