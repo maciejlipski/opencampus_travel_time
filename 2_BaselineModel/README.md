@@ -23,7 +23,7 @@ The baseline model aims to predict the speed of a rider (e.g., cyclist, runner) 
 
 
 <div align="center">
-  <img src="Feature.png" alt="Figure 1: Description of the image" width="900">
+  <img src="Misc/Feature.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>Feature Engineering</strong></p>
 </div>
 <br></br>
@@ -35,12 +35,12 @@ Both models are evaluated on a separate test dataset and new unseen data. The ev
 In summary, the baseline model provides two approaches (linear regression and neural network) for predicting rider speed based on terrain features. The code implements the training, prediction, and evaluation processes for both models, allowing for a comparison of their performance
 
 <div align="center">
-  <img src="MAE difference.png" alt="Figure 1: Description of the image" width="900">
+  <img src="Misc/MAE difference.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance Difference</strong></p>
 </div>
 <br></br>
 <div align="center">
-  <img src="MAE chart.png" alt="Figure 1: Description of the image" width="900">
+  <img src="Misc/MAE chart.png" alt="Figure 1: Description of the image" width="900">
   <p><strong>MAE Performance</strong></p>
 </div>
 
